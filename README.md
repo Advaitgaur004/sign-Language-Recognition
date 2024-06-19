@@ -75,6 +75,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- Special thanks to all the contributors.
+- Special thanks to all the contributors. (![Vageesh](https://github.com/vageesh1), ![Anushka Singh](https://github.com/Anushka-1603),![Hardik Goel](https://github.com/Hardikgoel070) , ![Pragati Sinha](https://github.com/pragati-sinha),![Hari Shubha](https://github.com/harishubha))
 - References and inspirations from various deep learning and sign language recognition research papers.
 
