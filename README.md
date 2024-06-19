@@ -10,6 +10,12 @@ This repository contains projects related to Sign Language Recognition using var
 - **Transfer_Learning_on_Sign_Language_Recognition.ipynb**: This notebook showcases the use of transfer learning techniques to improve sign language recognition.
 - **yolov5.ipynb**: A notebook using YOLOv5 for hand detection, which is a crucial step in sign language recognition.
 
+### Without 
+https://github.com/Advaitgaur004/sign-Language-Recognition/assets/126783821/cfdabc98-319f-4861-9bce-996914021608
+
+### With Annotation
+https://github.com/Advaitgaur004/sign-Language-Recognition/assets/126783821/7be38c66-bd41-47b4-9c8e-e730210a5f1c
+
 
 
 ## Project Highlights
